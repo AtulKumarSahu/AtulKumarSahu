@@ -1,15 +1,16 @@
-## Hi 👋 I'm Sahu
+## Hi 👋 I'm Atul
 
 🚀 Android & React Native Developer  
 💻 Kotlin | Jetpack Compose | React Native  
 📱 Building scalable mobile apps  
 
 ### 🛠 Tech Stack
-- Kotlin, Java
+- Kotlin, Java , JavaScript
 - Jetpack Compose
 - React Native
 - Firebase, REST APIs
+- 
 
 ### 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/atulkumar-sahu/
 
