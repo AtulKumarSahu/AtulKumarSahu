@@ -1,4 +1,4 @@
-# Hi 👋 I'm Atul
+## Hi, I am Atul 
 
 🚀 Android & React Native Developer  
 💻 Kotlin | Jetpack Compose | React Native | KMP
