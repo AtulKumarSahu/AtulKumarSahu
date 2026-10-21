@@ -1,6 +1,6 @@
 ## Hi, I am Atul 
 
-🚀 Android & React Native Developer | Seeking for Java Developer
+🚀 Android & React Native Developer
 💻 Kotlin | Jetpack Compose | React Native | KMP
 📱 Building scalable mobile apps & Java backend  
 
